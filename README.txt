@@ -29,7 +29,6 @@ GIF created with [OBS] and [ezgif.com]
 
 ## Notes
 
-Setting in Bios had to be changed for android studio with AMD cpu.
 
 ## License
 
