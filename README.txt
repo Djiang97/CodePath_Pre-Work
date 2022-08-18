@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src="https://i.imgur.com/zg9s0g0.gif" title="source: imgur.com" />
+https://i.imgur.com/zg9s0g0.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [OBS] and [ezgif.com]
