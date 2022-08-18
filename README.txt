@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://github.com/Djiang97/CodePath_Pre-Work/HelloWorld.gif)
+![](https://github.com/Djiang97/CodePath_Pre-Work/blob/master/HelloWorld.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [OBS] and [ezgif.com]
