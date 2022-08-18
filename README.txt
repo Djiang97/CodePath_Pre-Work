@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://imgur.com/zg9s0g0" ><img src="https://i.imgur.com/zg9s0g0.gif" title="source: imgur.com" /></a>
+<img src='https://imgur.com/zg9s0g0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [OBS] and [ezgif.com]
